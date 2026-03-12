@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Library",
+  "description": "An online library for managing and searching Markdown and Feishu documents.",
+  "requestFramePermissions": []
+}
